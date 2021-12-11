@@ -1,9 +1,6 @@
-# my-new-project
-Crowd and Traffic Density Project
+# Crowd and Traffic Density Project
 
-# Project Title
-
-Final project for the Building AI course
+Building AI course (Final Project)
 
 ## Summary
 
